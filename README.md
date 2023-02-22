@@ -72,6 +72,11 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 <br>
 <br>
 <hr />
+ <a href="https://google.com" align="center">
+   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rnjeetsingh&theme=react-dark&hide_border=true" alt="" />
+   </a>
+ <br />
+ <hr />
  <h3 align="center"> 
   Visitor count <br>
   <!-- <img src="https://profile-counter.glitch.me/4shutoshbhardwaj/count.svg" /> -->
@@ -79,9 +84,11 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
  </h3>
  <br />
  <br />
+  
  
 <a href="https://google.com" align="center">
    <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </a>
  
+
 </div>  
