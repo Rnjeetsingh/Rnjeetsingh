@@ -14,6 +14,8 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :telescope: I’m studying Full stack web devlopment at Masai School and contributing to frontend and backend for building web applications.
 
+- :telescope: <a href="https://ranjeet-singh-portfolio.netlify.app/" target="_blank">Portfolio</a>
+
 
 - :zap: In my free time, I solve problems on various coding platforms and read tech articles.
 
